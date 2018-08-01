@@ -1,0 +1,19 @@
+*{ margin: 0; padding: 0;}
+
+.clean{
+	clear: both;
+}
+
+.box_super{
+	width: 100%;	
+	overflow: hidden;
+}
+
+.box_super .box_jar{
+	width: 31%;
+	margin: 1%;
+	float: left;
+	border-radius: 10%;
+	background-color: #FF9933;
+	padding-bottom: 31%;
+}
